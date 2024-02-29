@@ -1,1 +1,1 @@
-# This is basically just an archive, the active repo's are on [my gitlab](https://git.30p87.de:444/30p87)
+# This is basically just an archive, the active repo's are on [my gitlab](https://git.30p87.de/30p87)
